@@ -15,4 +15,4 @@ Hi there! I'm Pyae Phyo Kyaw, and this is my digital garden, a place where I cul
 
 ## About Me
 
-[Your About information]
+[Something about me]
