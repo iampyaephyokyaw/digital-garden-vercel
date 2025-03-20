@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/advise-no-one/","tags":["posts","opinions"],"created":"2025-03-15"}
+{"dg-publish":true,"permalink":"/Posts/Advise no one/","tags":["posts","opinions"],"created":"2025-03-15"}
 ---
 
 

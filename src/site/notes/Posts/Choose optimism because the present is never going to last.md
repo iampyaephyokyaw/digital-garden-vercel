@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/choose-optimism-because-the-present-is-never-going-to-last/","tags":["posts","opinions","growth"],"created":"2024-12-24"}
+{"dg-publish":true,"permalink":"/Posts/Choose optimism because the present is never going to last/","tags":["posts","opinions","growth"],"created":"2024-12-24"}
 ---
 
 ## Choose optimism because the present is never going to last
