@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/career-ladder/","tags":["posts","growth"],"created":"2025-03-18"}
+{"dg-publish":true,"permalink":"/posts/career-ladder/","tags":["posts","growth","gardenEntry"],"created":"2025-03-18"}
 ---
 
 Career ladder အပေါ်ပိုင်းရောက်ဖို့သာ နှစ်ပေါင်းများစွာ အချိန်ယူအားထုတ်ပြီး တထစ်ချင်းတက်ရတာ။
