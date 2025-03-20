@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/test/","title":"Test","tags":["gardenEntry"],"created":"2025-03-21"}
+{"dg-publish":true,"permalink":"/posts/test/","title":"Test","created":"2025-03-21"}
 ---
 
 # Welcome to My Digital Garden
