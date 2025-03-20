@@ -8,8 +8,8 @@ Hi there! I'm Pyae Phyo Kyaw, and this is my digital garden, a place where I cul
 
 Latest notes
 
-{% for notes in site.notes limit:5 %}
--  {{ note.date | date: "%Y-%m-%d" }} - [{{ note.title }}]({{ note.url }})
+{% for post in collections.posts | reverse | limit(5) %}
+- [{{ post.data.title }}]({{ post.url }}) - {{ post.date | date: "%Y-%m-%d" }}
 {% endfor %}
 
 ## About Me
