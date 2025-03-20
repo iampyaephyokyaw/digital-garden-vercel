@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Posts/Homepage/","title":"Welcome to My Digital Garden"}
+{"dg-publish":true,"permalink":"/Posts/Homepage/","title":"Welcome to My Digital Garden","tags":["gardenEntry"]}
 ---
 
 # Welcome to My Digital Garden
@@ -12,8 +12,6 @@ Latest notes
 -  {{ post.date | date: "%Y-%m-%d" }} - [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
-
-
 ## About Me
 
-[This is who I am]
+[This is who I am ok]
