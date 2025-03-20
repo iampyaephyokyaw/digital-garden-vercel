@@ -9,7 +9,7 @@ Hi there! I'm Pyae Phyo Kyaw, and this is my digital garden, a place where I cul
 Latest notes
 
 {% for post in collections.posts | reverse | limit(5) %}
-- [{{ post.data.title }}]({{ post.url }}) - {{ post.date | date: "%Y-%m-%d" }}
+- [{{ post.data.title }}]({{ post.url }}) - {{ post.date | date: "yyyy-MM-dd" }}
 {% endfor %}
 
 ## About Me
