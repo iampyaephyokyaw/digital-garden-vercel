@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Posts/Homepage/","title":"Welcome to My Digital Garden","tags":["gardenEntry"]}
 ---
 
-# Welcome to My Digital Garden
+# Welcome to My Digital Garden why n o update
 
 Hi there! I'm Pyae Phyo Kyaw, and this is my digital garden, a place where I cultivate my thoughts and share my knowledge.
 
