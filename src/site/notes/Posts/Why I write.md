@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/why-i-write/","tags":["posts","writing"],"created":"2023-12-01"}
+{"dg-publish":true,"permalink":"/posts/why-i-write/","tags":["posts","writing","gardenEntry"],"created":"2023-12-01"}
 ---
 
 # This is heading 1.
