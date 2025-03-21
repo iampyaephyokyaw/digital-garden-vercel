@@ -1,31 +1,9 @@
-/* Fonts */
-/* These should be defined in a global CSS file or within the :root selector */
-/*:root {
+:root {
   --font-base: 'Inter', sans-serif;
   --font-heading: 'Merriweather Sans', sans-serif;
   --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --font-content: var(--font-base);
   --font-code: var(--font-mono);
-}
-*/
-
-nav ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: flex; /* Use flexbox for horizontal layout */
-}
-
-nav ul li {
-  margin-right: 20px; /* Add spacing between links */
-}
-
-nav ul li a {
-  font-family: var(--font-content); /* Match Stephango's font */
-  text-transform: uppercase;
-  text-decoration: none;
-  color: #333; /* Match Stephango's text color *
-    /
 }
 
 body {
