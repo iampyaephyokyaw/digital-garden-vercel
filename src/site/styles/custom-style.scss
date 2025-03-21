@@ -11,3 +11,22 @@ body {
     //   color: black;
     //  }
 }
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex; /* Use flexbox for horizontal layout */
+}
+
+nav ul li {
+  margin-right: 20px; /* Add spacing between links */
+}
+
+nav ul li a {
+  font-family: var(--font-content); /* Match Stephango's font */
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #333; /* Match Stephango's text color */
+    
+}
