@@ -1,3 +1,27 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Merriweather+Sans:wght@400;700&display=swap" rel="stylesheet">
+
+/* Fonts */
+--font-base: 'Inter', sans-serif;
+--font-heading: 'Merriweather Sans', sans-serif; /* Add heading font variable */
+--font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+--font-content: var(--font-base);
+--font-code: var(--font-mono);
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-heading); /* Use heading font variable */
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+
 body {
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
@@ -10,23 +34,4 @@ body {
     //  h1 {
     //   color: black;
     //  }
-}
-
-nav ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: flex; /* Use flexbox for horizontal layout */
-}
-
-nav ul li {
-  margin-right: 20px; /* Add spacing between links */
-}
-
-nav ul li a {
-  font-family: var(--font-content); /* Match Stephango's font */
-  text-transform: uppercase;
-  text-decoration: none;
-  color: #333; /* Match Stephango's text color */
-    
 }
