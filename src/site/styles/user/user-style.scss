@@ -1,1 +1,21 @@
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem; /* Adjust padding as needed */
+}
 
+.site-title {
+  font-size: 1.5rem; /* Adjust font size as needed */
+  text-decoration: none;
+  color: #333; /* Adjust color as needed */
+}
+
+.site-about {
+  text-decoration: none;
+  color: #333; /* Adjust color as needed */
+}
+
+.site-about:hover {
+  text-decoration: underline;
+}
