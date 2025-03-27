@@ -1,18 +1,39 @@
-{%if settings.dgHomeLink === true%}
-    <nav class="navbar">
-        <div class="navbar-inner">
-            <a href="/" style="text-decoration: none;">
-                <h1 style="margin: 15px !important;">{{meta.siteName}}</h1>
-            </a>
-        </div>
-        {% if settings.dgEnableSearch === true%}
-            {% include "components/searchButton.njk" %}
-        {%endif%}
-    </nav>
-    {%else%}
-    <div class="empty-navbar" >
-        {% if settings.dgEnableSearch === true%}
-            {% include "components/searchButton.njk" %}
-        {%endif%}
-    </div>
-{%endif%}
+.navbar {
+  background-color: #f0f0f0; /* Adjust to your preference */
+  padding: 1rem 0; /* Adjust padding as needed */
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px; /* Adjust max-width as needed */
+  margin: 0 auto;
+  padding: 0 1rem; /* Add padding to the container */
+}
+
+.navbar-title {
+  font-size: 1.5rem; /* Adjust font size as needed */
+  text-decoration: none;
+  color: #333; /* Adjust color as needed */
+}
+
+.navbar-links {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-links li {
+  margin-left: 1.5rem; /* Adjust spacing between links */
+}
+
+.navbar-links a {
+  text-decoration: none;
+  color: #333; /* Adjust color as needed */
+}
+
+.navbar-links a:hover {
+  text-decoration: underline;
+}
