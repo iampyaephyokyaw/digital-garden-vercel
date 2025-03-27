@@ -15,8 +15,6 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
     {%include "components/notegrowthhistory.njk"%}
-
-    {% include "components/navbar.njk" %}
     
     {% if settings.dgShowFileTree !== true %}
       {%include "components/navbar.njk"%}
