@@ -1,19 +1,25 @@
+.site-header-container {
+  max-width: 700px; /* Adjust to your content's max-width */
+  margin: 0 auto;
+}
+
 .site-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem; /* Adjust padding as needed */
+  padding: 1rem 0; /* Adjust padding as needed */
 }
 
 .site-title {
-  font-size: 1.5rem; /* Adjust font size as needed */
+  font-size: 1.2rem; /* Adjust font size as needed */
   text-decoration: none;
-  color: #333; /* Adjust color as needed */
+  color: #89b4fa; /* Adjust color as needed */
 }
 
 .site-about {
+  font-size: 1rem; /* Adjust font size as needed */
   text-decoration: none;
-  color: #333; /* Adjust color as needed */
+  color: #a6adc8; /* Adjust color as needed */
 }
 
 .site-about:hover {
