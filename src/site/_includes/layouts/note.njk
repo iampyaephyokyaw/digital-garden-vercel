@@ -17,6 +17,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {%include "components/notegrowthhistory.njk"%}
     
     {% if settings.dgShowFileTree !== true %}
+{{ site.title }}
       {%include "components/navbar.njk"%}
     {%else%}
       {%include "components/filetree.njk"%}
